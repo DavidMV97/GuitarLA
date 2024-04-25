@@ -17,6 +17,8 @@ function App() {
         cartTotal
     } = useCart()
 
+    
+    
     return (
         <>
             <Header 
